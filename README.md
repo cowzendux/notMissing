@@ -1,5 +1,5 @@
 # notMissing
-Removes cases missing values on the identified variable. Works on both string and numeric variables.
+This is an SPSS Python macro that removes cases missing values on the identified variable. Works on both string and numeric variables.
 
 ## Usage
 **notMissing(variable)**
