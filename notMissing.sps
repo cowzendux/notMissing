@@ -17,7 +17,7 @@
 *****
 * 2018-11-13 Created
 
-begin program python.
+BEGIN PROGRAM PYTHON3.
 import spss
 
 def getVariableIndex(variable):
